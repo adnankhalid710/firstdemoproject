@@ -1,1 +1,2 @@
 Hello world.
+New changes from github for smartgit project.
